@@ -13,6 +13,6 @@ public:
         int n = nums.size();
         int m = n * (n+1)/2 - sum;
         
-        return {r,m};
+       return {r,m};
     }
 };
